@@ -20,7 +20,7 @@ You can run the Jupyter Notebook files on your local machine. However, this repo
 
 ## Authors
 
-- [Frederick Vandermoeten](https://github.com/add-IV)
+- [add-IV](https://github.com/add-IV)
 - [Ou Li](https://github.com/ouli0826)
 
 ## References
